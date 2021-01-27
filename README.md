@@ -213,4 +213,4 @@
     $ 1234                    // 핀 코드
     ```
 
-    <img src="https://user-images.githubusercontent.com/56067179/105951437-5bc54700-60b3-11eb-9d9e-4d737c902dc0.PNG" width="60%" />
+    <img src="https://user-images.githubusercontent.com/56067179/105951437-5bc54700-60b3-11eb-9d9e-4d737c902dc0.PNG" width="500" />
